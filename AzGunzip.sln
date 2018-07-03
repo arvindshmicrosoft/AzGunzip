@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{826D5574-01B4-4A37-8610-540896CE79E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzGunzip", "AzGUnzip\AzGunzip.csproj", "{613380DB-E7AC-441B-8171-8C142D6C7CF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{826D5574-01B4-4A37-8610-540896CE79E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826D5574-01B4-4A37-8610-540896CE79E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826D5574-01B4-4A37-8610-540896CE79E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826D5574-01B4-4A37-8610-540896CE79E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613380DB-E7AC-441B-8171-8C142D6C7CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613380DB-E7AC-441B-8171-8C142D6C7CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613380DB-E7AC-441B-8171-8C142D6C7CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613380DB-E7AC-441B-8171-8C142D6C7CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A8743C-5355-4772-BD2E-162142BD2B71}
+	EndGlobalSection
+EndGlobal
